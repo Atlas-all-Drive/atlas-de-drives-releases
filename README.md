@@ -2,6 +2,12 @@
 
 Este repositório distribui as versões do **Atlas de Drives**, um catálogo local de HDs e SSDs externos para macOS.
 
+## ⬇️ Baixar
+
+**[Baixar o Atlas de Drives 1.2.2 (.dmg)](https://github.com/Atlas-all-Drive/atlas-de-drives-releases/releases/download/v1.2.2/Atlas-de-Drives-1.2.2.dmg)**
+
+> Não use o botão verde *Code → Download ZIP* desta página: ele baixa só este README. O instalador está em [Releases](https://github.com/Atlas-all-Drive/atlas-de-drives-releases/releases/latest).
+
 - O Atlas **só lê** nomes, tamanhos e datas dos seus drives. Nunca apaga, move ou altera nada.
 - Funciona **sem internet**. Seus dados ficam no seu computador.
 - Para baixar a versão mais recente, veja a aba **Releases** deste repositório.
